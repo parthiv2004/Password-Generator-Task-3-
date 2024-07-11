@@ -1,4 +1,4 @@
-# Password-Generator Task-3
+# Password Generator Task-3
 Project 03:  Secure Password Generator
 
 Project Description:
