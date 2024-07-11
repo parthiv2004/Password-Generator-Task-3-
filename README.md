@@ -1,5 +1,5 @@
 # Password-Generator Task-3
-Project 03: Secure Password Generator
+Project 03:  Secure Password Generator
 
 Project Description:
 The "Secure Password Generator" is a Python-based application that generates strong and secure random passwords. The password generator aims to assist users in creating robust and unique passwords that are difficult to crack and enhance overall online security. The project provides a command-line interface, allowing users to customize the password length and include various character types in the generated passwords.
